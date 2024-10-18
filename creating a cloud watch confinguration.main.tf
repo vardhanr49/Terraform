@@ -1,3 +1,4 @@
+#creating a cloud watch configuration
 # Provider configuration
 provider "aws" {
   region = "us-west-2" # Specify your AWS region
